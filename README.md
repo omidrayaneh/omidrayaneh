@@ -12,9 +12,8 @@ I love a challenge and am always looking for new challenges. In my free time, I 
 <br/>  
 
 
-## Find Me 
+## Technologies I am Interested In 
 <table><tr><td valign="top" width="33%">
-
 <div align="">  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
