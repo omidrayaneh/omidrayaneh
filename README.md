@@ -12,7 +12,7 @@ I love a challenge and am always looking for new challenges. In my free time, I 
 <br/>  
 
 
-## My Skill Set  
+## Find Me 
 <table><tr><td valign="top" width="33%">
 
 <div align="">  
