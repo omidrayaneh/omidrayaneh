@@ -1,4 +1,4 @@
-### <div align="center">Hi there 🔗</div>  
+# <div align="center">Hi there 🔗</div>  
   
 
 My name is Omid and I'm a software engineer. I live in Tehran.
@@ -12,7 +12,7 @@ I love a challenge and am always looking for new challenges. In my free time, I 
 <br/>  
 
 
-## Technologies I am Interested In 
+### Technologies I am Interested In 
 <table><tr><td valign="top" width="33%">
 <div align="">  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
@@ -27,7 +27,7 @@ I love a challenge and am always looking for new challenges. In my free time, I 
 <br/>  
 
 
-## Connect with me  
+### Connect with me  
 <div align="center">
 <a href="https://github.com/omidrayaneh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
