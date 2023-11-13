@@ -1,4 +1,4 @@
-# Hi there 🔗
+# Hi there 
   
 ## My name is Omid and I'm a software engineer. I live in Tehran.
 
