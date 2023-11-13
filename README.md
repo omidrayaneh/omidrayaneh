@@ -1,15 +1,10 @@
-# <div align="center">Hi there 🔗</div>  
+Hi there 🔗
   
-
 My name is Omid and I'm a software engineer. I live in Tehran.
 
-  
-  
 
 I love a challenge and am always looking for new challenges. In my free time, I enjoy listening to music and movies and walking.  
   
-
-<br/>  
 
 
 ### Technologies I am Interested In 
